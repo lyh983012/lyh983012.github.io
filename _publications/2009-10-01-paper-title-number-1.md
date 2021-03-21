@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "HRank: Filter Pruning using High-Rank Feature Map"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'CVPR 2020'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Mingbao Lin, Rongrong Ji, Yan Wang, Yichen Zhang, Baochang Zhang, Yonghong Tian, Ling Shao. (2020). &quot;HRank: Filter Pruning using High-Rank Feature Map&quot; <i>CVPR</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2002.10179)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Mingbao Lin, Rongrong Ji, Yan Wang, Yichen Zhang, Baochang Zhang, Yonghong Tian, Ling Shao. (2020). &quot;HRank: Filter Pruning using High-Rank Feature Map&quot; <i>CVPR</i>. 1(1).
