@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang,Yichen 张怡晨"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Homepage"
 description              : &description "where is this description?"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhang, Yichen (张怡晨)"
+  name             : "Zhang,Yichen(张怡晨)"
   avatar           : "profile.png"
   bio              : "a M.S. student in SoC, NUS"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rdBBriUAAAAJ&hl=zh-CN"
-  email            : zhang [dot] yichen at u [dot] nus [dot] edu
+  zhang [dot] yichen at u [dot] nus [dot] edu            : zhang [dot] yichen at u [dot] nus [dot] edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
