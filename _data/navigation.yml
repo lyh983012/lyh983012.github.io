@@ -17,8 +17,9 @@ main:
     
   - title: "CV(1 page)"
     url: /files/CV_Yichen Zhang_1page.pdf
+    
   - title: "CV(full)"
-  url: /files/CV_Yichen Zhang_full.pdf
+    url: /files/CV_Yichen Zhang_full.pdf
     
   #- title: "Guide"
   #  url: /markdown/
