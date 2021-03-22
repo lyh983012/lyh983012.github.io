@@ -11,9 +11,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Homepage"
 description              : &description "where is this description?"
-url                      : https://ethanzhangyc.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lyh983012.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "EthanZhangYC/EthanZhangYC.github.io/"
+repository               : "lyh983012/lyh983012.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhang,Yichen(张怡晨)"
+  name             : "Yihan Lin(林逸晗)"
   avatar           : "profile.png"
-  bio              : "a M.S. student in SoC, NUS \n Email: zhang [dot] yichen at u [dot] nus [dot] edu"
-  location         : "Singapore"
+  bio              : ""
+  location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=rdBBriUAAAAJ&hl=zh-CN"
+  googlescholar    : ""
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "EthanZhangYC"
+  github           : "lyh983012"
   google_plus      :
   keybase          :
   instagram        :

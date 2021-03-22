@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.E. in Xiamen University, 2016-2020
-* M.S. in National University of Singapore, 2020-2021
-[//] * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 [^_^]
   Work experience

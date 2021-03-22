@@ -8,28 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-Yichen Zhang is a master student in National University of Singapore, majoring in Artifitial Intelligence spn. He graduated as distinguished student from the Department of Artifitial Intelligence at Xiamen University, China, in 2020. 
 More details please have a look at my curriculum vitae from the top menu.
-
 
 News
 ======
-* Mar 2021: I create this page.
+- Mar 2021: Firstly creation.
 
 
 Education
 ------
-* M.S. in Artifitial Intelligence, National University of Singapore, 2020-present
-* B.E. in Cognitive Science, department of Artifitial Intelligence, Xiamen University, 2016-2020
-
+- Ph.D. student, Center for Brain-Inspired Computing Research, Tsinghua University, 9/2020~
+- Undergraduate student (B.E. degree),Major in Instruments Science and Technology, Department of Precision Instrument, Tsinghua University, 9/2016~7/2020
+- Minor Degree in CS, Department of Computer Science and Technology, Tsinghua University, 9/2018~7/2020
 
 Publications
 ------
-* Mingbao Lin, Rongrong Ji, Yan Wang, Yichen Zhang, Baochang Zhang, Yonghong Tian, Ling Shao. HRank: Filter Pruning using High-Rank Feature Map. Computer Vision and Pattern Recognition(CVPR) 2020 Oral.
-* Jiao Xie, Shaohui Lin, Yichen Zhang, Linkai Luo. Training Convolutional Neural Networks with Cheap Convolutions and Online Distillation. 
+1. Yihan Lin, Jiawei Sun, Guoqi Li, et al. Spatiotemporal input control: leveraging temporal variation in network dynamics. Sci China Inf Sci, under review.
+2. Yihan Lin, Wei Ding, Shaohua Qiang, et al. ES-ImageNet: The Largest Event-Stream Classification Dataset for Spike Neural Networks. ICCV. under review.
+3. Zhenzhi Wu, Hewei Zhang, Yihan, Lin. et al. LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing. ArXiv, abs/2011.06176. TNNLS. under review.
 
+SE Project
+------
+- ![Tsinghua-style student](https://github.com/lyh983012/TS-game/releases/tag/1.0.0)
+- ![Java Netdisk](https://github.com/lyh983012/Java-Netdisk)
 
 Research Interest
 ------
-Computer Vision, Neural Network Compression and Acceleration, Medical Image, Domain Adaptation
+	-	Spiking Neuron Network
+	-	Complex System Control
+	-	Low Level Computer Vision
+	-	Hardware for Artificial Intelligence
 
