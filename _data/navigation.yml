@@ -14,12 +14,12 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+
+  - title: "CV"
+    url: /files/Yihan_Lin_CV.pdf
     
-  - title: "CV(1 page)"
-    url: /files/CV_Yichen Zhang_1page.pdf
-    
-  - title: "CV(full)"
-    url: /files/CV_Yichen Zhang_full.pdf
+  - title: "album"
+    url: /files/album.html
     
   #- title: "Guide"
   #  url: /markdown/
