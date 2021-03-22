@@ -15,8 +15,10 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "CV(1 page)"
     url: /files/CV_Yichen Zhang_1page.pdf
+  - title: "CV(full)"
+  url: /files/CV_Yichen Zhang_full.pdf
     
   #- title: "Guide"
   #  url: /markdown/
