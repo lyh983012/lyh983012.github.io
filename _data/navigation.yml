@@ -19,7 +19,7 @@ main:
     url: /files/Yihan_Lin_CV.pdf
     
   - title: "album"
-    url: /files/album/main.html
+    url: /album/main.html
     
   #- title: "Guide"
   #  url: /markdown/
