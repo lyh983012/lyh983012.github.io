@@ -23,9 +23,14 @@ More details please have a look at my curriculum vitae from the top menu.
 
 
 ## Publications
-1. Yihan Lin, Jiawei Sun, Guoqi Li, et al. Spatiotemporal input control: leveraging temporal variation in network dynamics. Sci China Inf Sci, under review.
-2. Yihan Lin, Wei Ding, Shaohua Qiang, et al. ---. ICCV. under review.
+
+1. Yihan Lin, Jiawei Sun, Guoqi Li, et al. Spatiotemporal input control: leveraging temporal variation in network dynamics. IEEE/CAA Journal of Automatica Sinica, ENDORSE THE PUBLICATION.
+
+2. Yihan Lin, Wei Ding, Shaohua Qiang, et al. ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks, Frontiers of Neuron Science, ENDORSE THE PUBLICATION.
+
 3. Zhenzhi Wu, Hewei Zhang, Yihan, Lin. et al. LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing. 2021, IEEE Transactions on Neural Networks and Learning Systems PP(99):1-14.
+
+4. Yao, Man, Gao, Huanhuan, Zhao, Guangshe, Wang, Dingheng, Lin, Yihan, et.al. Temporal-wise Attention Spiking Neural Networks for Event Streams Classification. IEEE International Conference on Computer Vision 2021 (ICCV2021) poster.
 
 ##  SE Project
 - [Tsinghua-style student](https://github.com/lyh983012/TS-game/releases/tag/1.0.0)
