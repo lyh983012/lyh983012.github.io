@@ -24,7 +24,7 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ## Publications
 
-1. Yihan Lin, Jiawei Sun, Guoqi Li, et al. Spatiotemporal input control: leveraging temporal variation in network dynamics. IEEE/CAA Journal of Automatica Sinica, ENDORSE THE PUBLICATION.
+1. Y. Lin et al., "Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics," in IEEE/CAA Journal of Automatica Sinica, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.
 
 2. Lin Y, Ding W, Qiang S, Deng L and Li G (2021) ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks. Front. Neurosci. 15:726582. doi: 10.3389/fnins.2021.726582
 
