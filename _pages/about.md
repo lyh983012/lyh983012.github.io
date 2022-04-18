@@ -39,7 +39,7 @@ More details please have a look at my curriculum vitae from the top menu.
 1. TO BE PUBLISHED THIS YEAR.
 
 2. Yihan Lin, Yifan Hu, Shijie Ma, Guoqi Li, Dongjie Yu, Rethinking Pretraining as a Bridge from ANNs to SNNs, arXiv preprint arXiv:2203.01158
-[[paper](https://arxiv.org/pdf/2203.01158.pdf)]
+[[paper](https://arxiv.org/pdf/2203.01158.pdf)] [[code](https://github.com/lyh983012/SNN-pretrain-pipeline)]
 
 ##  Honors
 
