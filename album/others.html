@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>Personal Album</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="css/style.css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="js/modernizr-1.5.min.js"></script>
+</head>
+
+<body>
+  <div id="main">
+    <header>
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="main.html">Personal Album<span class="logo_colour"></span></a></h1>
+          <h2></h2>
+        </div>
+      </div>
+      <nav>
+        <ul class="sf-menu" id="nav">
+          <li class="selected"><a href="main.html">github.io</a></li>
+          <li><a href="xs.html">Fragrance Hill</a></li>
+          <li><a href="hn.html">Hainan</a></li>
+          <li><a href="gbsz.html">Beijing WTown</a></li>
+          <li><a href="#">AlbumList</a>
+              <ul>
+                <li><a href="yyt.html">Yuyantan Park</a></li>
+                <li><a href="nj.html">Nanjing</a></li>
+                <li><a href="others.html">Others</a></li>
+              </ul>
+        </ul>
+      </nav>
+    </header>
+	<div class="inner_copyright">Collect from <a href="http://" target="_blank" title="lyh">lyh983012</a></div>
+    <div id="site_content">
+      <ul id="images">
+        <li><img src="../images/hn/hn_1.jpg" width="600" height="400" alt="seascape_one" /></li>
+      </ul>
+      <div class="content">
+      </div>
+    </div>
+    <footer>
+      <p> cloned from mycodes.net <a href="http://www.mycodes.net"></a></p>
+    </footer>
+  </div>
+  <p>&nbsp;</p>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="js/jquery.js"></script>
+  <script type="text/javascript" src="js/jquery.easing-sooper.js"></script>
+  <script type="text/javascript" src="js/jquery.sooperfish.js"></script>
+  <script type="text/javascript" src="js/jquery.kwicks-1.5.1.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#images').kwicks({
+        max : 600,
+        spacing : 2
+      });
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+</body>
+</html>
