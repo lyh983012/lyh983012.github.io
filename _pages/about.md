@@ -36,9 +36,9 @@ More details please have a look at my curriculum vitae from the top menu.
 4. Yao, Man, Gao, Huanhuan, Zhao, Guangshe, Wang, Dingheng, Lin, Yihan, et al. Temporal-wise Attention Spiking Neural Networks for Event Streams Classification. *IEEE International Conference on Computer Vision 2021 (ICCV2021)*, poster.
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.html)]
 
-1. TO BE PUBLISHED THIS YEAR.
+5. Songchen Ma, Jing Pei, Weihao Zhang, Guanrui Wang, Dahu Feng et. al, Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots. 2022, *Science Robotics*, vol. 7, no. 67, pp. eabk2948. doi:10.1126/scirobotics.abk2948 [[paper](https://www.science.org/doi/abs/10.1126/scirobotics.abk2948)] 
 
-2. Yihan Lin, Yifan Hu, Shijie Ma, Guoqi Li, Dongjie Yu, Rethinking Pretraining as a Bridge from ANNs to SNNs, arXiv preprint arXiv:2203.01158
+6. Yihan Lin, Yifan Hu, Shijie Ma, Guoqi Li, Dongjie Yu, Rethinking Pretraining as a Bridge from ANNs to SNNs, arXiv preprint arXiv:2203.01158
 [[paper](https://arxiv.org/pdf/2203.01158.pdf)] [[code](https://github.com/lyh983012/SNN-pretrain-pipeline)]
 
 ##  Honors
