@@ -60,8 +60,8 @@ More details please have a look at my curriculum vitae from the top menu.
 - 10/2017	Comprehensive Excellence Award
 
 ## Blogs
-- [A Brief Introduction to Neuromorphic Processors](https://snip.mathpix.com/qiubao20/articles/2022.09.00090/edit)
-- [?]
+- [A Brief Introduction to Neuromorphic Processors](https://spectra.mathpix.com/article/2022.09.00090/a-brief-introduction-to-neuromorphic-processors)
+- [The history of Spiking Neural Network](https://spectra.mathpix.com/article/2022.09.00085/the-history-of-spiking-neural-network)
 - [Note of signal and system course](https://blog.csdn.net/qq_42968558/category_10565336.html)
 
 ##  SE Project
