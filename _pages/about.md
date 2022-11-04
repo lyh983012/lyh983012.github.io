@@ -43,6 +43,7 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ##  Honors
 
+- 10/2022 Comprehensive first-class scholarship for PhD students
 - 10/2021	Comprehensive second-class scholarship for PhD students
 - 6/2020	Scholarship for future scholars
 - 6/2020	Outstanding graduates of Beijing
@@ -75,3 +76,7 @@ More details please have a look at my curriculum vitae from the top menu.
 -	Low Level Computer Vision
 -	Hardware for Artificial Intelligence
 - Real time rendering and sensor simulation
+
+## Other experiences
+
+- Be invited to be reviewer of TNNLS, IJCNN, and Frontiers in Neurorobotics,
