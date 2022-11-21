@@ -38,8 +38,8 @@ More details please have a look at my curriculum vitae from the top menu.
 
 5. Songchen Ma, Jing Pei, Weihao Zhang, Guanrui Wang, Dahu Feng et. al, Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots. 2022, *Science Robotics*, vol. 7, no. 67, pp. eabk2948. doi:10.1126/scirobotics.abk2948 [[paper](https://www.science.org/doi/abs/10.1126/scirobotics.abk2948)] 
 
-6. Yihan Lin, Yifan Hu, Shijie Ma, Guoqi Li, Dongjie Yu, Rethinking Pretraining as a Bridge from ANNs to SNNs, arXiv preprint arXiv:2203.01158
-[[paper](https://arxiv.org/pdf/2203.01158.pdf)] [[code](https://github.com/lyh983012/SNN-ANN-Pretrain)]
+6. Y. Lin, Y. Hu, S. Ma, D. Yu and G. Li, "Rethinking Pretraining as a Bridge From ANNs to SNNs," in IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3217796.
+[[paper](https://ieeexplore.ieee.org/document/9950361)] [[code](https://github.com/lyh983012/SNN-ANN-Pretrain)]
 
 ##  Honors
 
