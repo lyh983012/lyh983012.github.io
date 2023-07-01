@@ -11,6 +11,8 @@ redirect_from:
 More details please have a look at my curriculum vitae from the top menu.
 
 ## News
+
+- Nov 2022: A paper accepted by TNNLS
 - Mar 22 2021: update the albums.
 - Mar 21 2021: Firstly creation.
 
