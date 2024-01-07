@@ -12,17 +12,16 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ## News
 
-- Nov 2022: A paper accepted by TNNLS
+- Dec 01 2023: qqq's 26^th Birthday
+- Nov 01 2022: A paper accepted by TNNLS
 - Mar 22 2021: update the albums.
 - Mar 21 2021: Firstly creation.
-
 
 ## Education
 
 - Ph.D. student, Center for Brain-Inspired Computing Research, Tsinghua University, 9/2020 ~ now.
 - Undergraduate student (B.E. degree), Major in Instruments Science and Technology, Department of Precision Instrument, Tsinghua University, 9/2016 ~ 7/2020.
 - Minor Degree in CS, Department of Computer Science and Technology, Tsinghua University, 9/2018 ~ 7/2020.
-
 
 ## Publications
 
@@ -45,22 +44,29 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ##  Honors
 
-- 10/2022 Comprehensive first-class scholarship for PhD students
-- 10/2021	Comprehensive second-class scholarship for PhD students
-- 6/2020	Scholarship for future scholars
-- 6/2020	Outstanding graduates of Beijing
-- 6/2020	Outstanding graduates of Tsinghua University
-- 6/2020	Outstanding contribution award for graduates of Department of Precision Instrument, Tsinghua
-- 10/2019	Award for Excellent Social work 
-- 10/2019	XCMG scholarship (one of the top scholarship in THU)
-- 10/2019	Comprehensive Excellence Award
+- 11/2023 Scholarship for Excellence in Social Practices, THU
+- 11/2023 Comprehensive first-class scholarship for PhD studentss, THU
+- 10/2022 Comprehensive first-class scholarship for PhD studentss, THU
+- 10/2021	Comprehensive second-class scholarship for PhD studentss, THU
+- 06/2020	Scholarship for future scholars, THU
+- 06/2020	Outstanding graduates of Beijing
+- 06/2020	Outstanding graduates of Tsinghua University
+- 06/2020	Outstanding contribution award for graduates of Department of Precision Instruments, THU
+- 10/2019	Award for Excellent Social Practices, THU
+- 10/2019	XCMG scholarship (one of the top scholarship in THU, Candidate for Tsinghua University Premium Scholarship)
+- 10/2019	Comprehensive Excellence Award, THU
 - 12/2018	Second prize of HuaLuoGeng cup mathematical modeling contest of Tsinghua University
-- 10/2018	Science and Technology Innovation Excellence Award
+- 10/2018	Science and Technology Innovation Excellence Award, THU
 - 10/2018	National scholarship
 - 07/2018	Second prize of the 34th national optoelectronic Design Competition
-- 10/2017	Social practice Excellence Award
-- 10/2017	Volunteer public welfare Excellence Award
-- 10/2017	Comprehensive Excellence Award
+- 10/2017	Social practice Excellence Award, THU
+- 10/2017	Volunteer public welfare Excellence Award, THU
+- 10/2017	Comprehensive Excellence Award, THU
+
+## Working Experience
+
+- 10/2021-now, Intern ISP Algorithm Engineer, Beijing Lynxi tech. co.
+- 06/2023-08/2023, Intern CV Algorithm Engineer, Yealink Co.
 
 ## Blogs
 - [A Brief Introduction to Neuromorphic Processors](https://spectra.mathpix.com/article/2022.09.00090/a-brief-introduction-to-neuromorphic-processors)
@@ -76,8 +82,8 @@ More details please have a look at my curriculum vitae from the top menu.
 -	Spiking Neuron Networks
 -	Complex System Control
 -	Low Level Computer Vision
--	Hardware for Artificial Intelligence
-- Real time rendering and sensor simulation
+-	Artificial Intelligence for BI-VIS
+- Tool-chain for high-speed VIS
 
 ## Other experiences
 
