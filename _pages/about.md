@@ -87,4 +87,4 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ## Other experiences
 
-- Be invited to be reviewer of TNNLS, IJCNN, and Frontiers in Neurorobotics,
+- Be invited to be reviewer of TNNLS, IJCNN, Scientific Reports, and Frontiers in Neurorobotics,
