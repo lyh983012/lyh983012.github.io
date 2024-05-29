@@ -18,8 +18,8 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ## Publications
 
-- Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A Vision Sensor Chip with Complementary Pathways for Open-world Sensing", Nature, Accepted
-[[paper]()] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
+- Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. Nature 629, 1027–1033 (2024). 
+[[paper](https://doi.org/10.1038/s41586-024-07358-4)] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
 
 - **Y. Lin**, Y. Hu, S. Ma, D. Yu and G. Li, "Rethinking Pretraining as a Bridge From ANNs to SNNs," in IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3217796.
 [[paper](https://ieeexplore.ieee.org/document/9950361)] [[code](https://github.com/lyh983012/SNN-ANN-Pretrain)]
