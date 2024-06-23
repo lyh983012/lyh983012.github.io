@@ -18,8 +18,14 @@ main:
   - title: "CV"
     url: /files/Yihan_Lin.pdf
     
-  - title: "album"
+  - title: "TianMouCV"
+    url: /tianmoucv_doc_source/index.html
+
+  - title: "Tianmouc-Lens"
+    url: /depth-of-field/index.html
+
+  - title: "Personal Album"
     url: /album/main.html
-    
+
   #- title: "Guide"
   #  url: /markdown/
