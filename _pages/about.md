@@ -42,8 +42,6 @@ More details please have a look at my curriculum vitae from the top menu.
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.html)]
 
 
-
-
 ##  Honors
 
 - 08/2024 First-class Scholarship of China Instrumentation Society, CIS
@@ -68,7 +66,7 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ## Working Experience
 
-- 10/2021-now, Intern ISP Algorithm Engineer, Beijing Lynxi tech. co.
+- 10/2021-08/2024, Intern ISP Algorithm Engineer, Beijing Lynxi tech. co.
 - 06/2023-08/2023, Intern CV Algorithm Engineer, Yealink Co.
 
 ## Blogs
@@ -87,8 +85,8 @@ More details please have a look at my curriculum vitae from the top menu.
 -	Spiking Neuron Networks
 -	Complex System Control
 -	Low Level Computer Vision
--	Artificial Intelligence for BI-VIS
-- Tool-chain for high-speed VIS
+-	Brain inspired Intelligence
+- Tool-chain for high-speed complementary vision sensor
 
 ## Other experiences
 
