@@ -46,6 +46,7 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ##  Honors
 
+- 08/2024 First-class Scholarship of China Instrumentation Society, CIS
 - 11/2023 Comprehensive first-class scholarship for PhD studentss, THU **(Top 10%)**
 - 11/2023 Scholarship for Excellence in Social Activitiy, THU
 - 10/2022 Comprehensive first-class scholarship for PhD studentss, THU **(Top 10%)**
@@ -91,7 +92,7 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ## Other experiences
 
-- Be invited to be reviewer of TNNLS, IJCNN, Scientific Reports, and Frontiers in Neurorobotics,
+- Be invited to be reviewer of TNNLS, IJCNN, and Frontiers in Neurorobotics,
 
 <div>
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=4FJDDsvjuSFzFRBj90PhbhqvxK27XvsyT2vmNjJAHCQ&co=07558c&cmo=f5bbbb&cmn=2cb1cf'></script>
