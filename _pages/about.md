@@ -18,29 +18,28 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ## Publications
 
-- Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. Nature 629, 1027–1033 (2024). 
+- Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. **Nature** 629, 1027–1033 (2024). 
 [[paper](https://doi.org/10.1038/s41586-024-07358-4)] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
 
-- L. He$^†$, Y. Xu$^†$, W. He$^†$, **Y. Lin**$^†$. et al. Network model with internal complexity bridges artificial intelligence and neuroscience. Nat Comput Sci (2024).  [[paper](https://doi.org/10.1038/s43588-024-00674-9)]  [[code](https://github.com/helx-20/complexity)]
+- L. He$^†$, Y. Xu$^†$, W. He$^†$, **Y. Lin**$^†$. et al. Network model with internal complexity bridges artificial intelligence and neuroscience. **Nat Comput Sci** (2024).  [[paper](https://doi.org/10.1038/s43588-024-00674-9)]  [[code](https://github.com/helx-20/complexity)]
 
-- **Y. Lin**, Y. Hu, S. Ma, D. Yu and G. Li, "Rethinking Pretraining as a Bridge From ANNs to SNNs," in IEEE Transactions on Neural Networks and Learning Systems, 2022, doi: 10.1109/TNNLS.2022.3217796.
+- **Y. Lin**, Y. Hu, S. Ma, D. Yu and G. Li, "Rethinking Pretraining as a Bridge From ANNs to SNNs," in **IEEE Transactions on Neural Networks and Learning Systems**, 2022, doi: 10.1109/TNNLS.2022.3217796.
 [[paper](https://ieeexplore.ieee.org/document/9950361)] [[code](https://github.com/lyh983012/SNN-ANN-Pretrain)]
 
-- S. Ma, J. Pei, W. Zhang, G. Wang, D. Feng et. al, Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots. 2022, *Science Robotics*, vol. 7, no. 67, pp. eabk2948. doi:10.1126/scirobotics.abk2948 
-[[paper](https://www.science.org/doi/abs/10.1126/scirobotics.abk2948)] 
-
-- **Y. Lin**$^†$,J. Sun$^†$, et al., "Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics," in *IEEE/CAA Journal of Automatica Sinica*, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.    
+- **Y. Lin**$^†$,J. Sun$^†$, et al., "Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics," in **IEEE/CAA Journal of Automatica Sinica**, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.    
 [[paper](https://ieeexplore.ieee.org/abstract/document/9732319)] [[code](https://github.com/lyh983012/ComplexNetController)]
 
-- **Y. Lin**, W. Ding, S. Qiang, et al., (2021) ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks. *Front. Neurosci.* 15:726582. doi: 10.3389/fnins.2021.726582
+- **Y. Lin**, W. Ding, S. Qiang, et al., (2021) ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks. **Front. Neurosci**. 15:726582. doi: 10.3389/fnins.2021.726582
 [[paper](https://www.frontiersin.org/articles/10.3389/fnins.2021.726582/full)] [[code](https://github.com/lyh983012/ES-imagenet-master)]
 
-- Z. Wu, H. Zhang, **Y. Lin**. et al. LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing. 2021, *IEEE Transactions on Neural Networks and Learning Systems*, PP(99):1-14.
+- Z. Wu, H. Zhang, **Y. Lin**. et al. LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing. 2021, **IEEE Transactions on Neural Networks and Learning Systems**, PP(99):1-14.
 [[paper](https://ieeexplore.ieee.org/abstract/document/9429228)] [[code](https://github.com/lyh983012/SNN-genunit)]
 
-- M. Yao, H. Gao, G. Zhao, D. Wang, **Y. Lin**, et al. Temporal-wise Attention Spiking Neural Networks for Event Streams Classification. *IEEE International Conference on Computer Vision 2021 (ICCV2021)*, poster.
+- M. Yao, H. Gao, G. Zhao, D. Wang, **Y. Lin**, et al. Temporal-wise Attention Spiking Neural Networks for Event Streams Classification. **IEEE International Conference on Computer Vision 2021 (ICCV2021)**, poster.
 [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.html)]
 
+- S. Ma, J. Pei, W. Zhang, G. Wang, D. Feng et. al, Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots. 2022, **Science Robotics**, vol. 7, no. 67, pp. eabk2948. doi:10.1126/scirobotics.abk2948 
+[[paper](https://www.science.org/doi/abs/10.1126/scirobotics.abk2948)] 
 
 ##  Honors
 
