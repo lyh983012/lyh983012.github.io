@@ -43,6 +43,9 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ##  Honors
 
+
+- 11/2024 *
+- 10/2024 Zheng Lianfa Scholarship, Fujian Provincial Labour Committee
 - 08/2024 First-class Scholarship of China Instrumentation Society, CIS
 - 11/2023 Comprehensive first-class scholarship for PhD studentss, THU **(Top 10%)**
 - 11/2023 Scholarship for Excellence in Social Activitiy, THU
