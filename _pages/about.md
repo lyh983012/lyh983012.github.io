@@ -12,15 +12,15 @@ I am currently employed as a Tenure-Track Assistant Professor at Pen-Tune Sah in
 
 ## Education
 
-- Ph.D. Candidate, Center for Brain-Inspired Computing Research, Tsinghua University, 9/2020 ~ now.
+- Ph.D., Center for Brain-Inspired Computing Research, Tsinghua University, 9/2020 ~ 6/2025.
 - Undergraduate student (B.E. degree), Major in Instruments Science and Technology, Department of Precision Instrument, Tsinghua University, 9/2016 ~ 7/2020.
 - Minor Degree in CS, Department of Computer Science and Technology, Tsinghua University, 9/2018 ~ 7/2020.
 
 ## Publications
 
-- Y. Meng$^†$, **Y. Lin**$^†$, et. al., ***, ICCV 2025
+- Y. Meng$^†$, **Y. Lin**$^†$, et. al., ***(accepted, preparing), ICCV 2025
 
-- **Y. Lin**$^†$, **Z. Zhang**$^†$ et. al., ***, IROS 2025
+- **Y. Lin**$^†$, Z. Zhang$^†$ et. al., ***(accepted, preparing), IROS 2025
 
 - Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. **Nature** 629, 1027–1033 (2024). 
 [[paper](https://doi.org/10.1038/s41586-024-07358-4)] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
