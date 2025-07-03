@@ -25,10 +25,6 @@ I am currently employed as a Tenure-Track Assistant Professor at Pen-Tune Sah in
 - Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. **Nature** 629, 1027–1033 (2024). 
 [[paper](https://doi.org/10.1038/s41586-024-07358-4)] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
 
-
-- Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. **Nature** 629, 1027–1033 (2024). 
-[[paper](https://doi.org/10.1038/s41586-024-07358-4)] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
-
 - L. He$^†$, Y. Xu$^†$, W. He$^†$, **Y. Lin**$^†$. et al. Network model with internal complexity bridges artificial intelligence and neuroscience. **Nat Comput Sci** (2024).  [[paper](https://doi.org/10.1038/s43588-024-00674-9)]  [[code](https://github.com/helx-20/complexity)]
 
 - **Y. Lin**, Y. Hu, S. Ma, D. Yu and G. Li, "Rethinking Pretraining as a Bridge From ANNs to SNNs," in **IEEE Transactions on Neural Networks and Learning Systems**, 2022, doi: 10.1109/TNNLS.2022.3217796.
