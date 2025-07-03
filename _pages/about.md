@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-More details please have a look at my curriculum vitae from the top menu.
+I am currently employed as a Tenure-Track Assistant Professor at Pen-Tune Sah instinite of Micro-Nano Science and Technology, Xiamen University.  My research focuses on brain-inspired vision and brain-inspired computing, with representative works including the Tianmouc chip and the [[TianmouCV](https://github.com/Tianmouc)] project. I welcome collaborations—please feel free to contact me.
 
 ## Education
 
@@ -17,6 +17,14 @@ More details please have a look at my curriculum vitae from the top menu.
 - Minor Degree in CS, Department of Computer Science and Technology, Tsinghua University, 9/2018 ~ 7/2020.
 
 ## Publications
+
+- Y. Meng$^†$, **Y. Lin**$^†$, et. al., ***, ICCV 2025
+
+- **Y. Lin**$^†$, **Z. Zhang**$^†$ et. al., ***, IROS 2025
+
+- Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. **Nature** 629, 1027–1033 (2024). 
+[[paper](https://doi.org/10.1038/s41586-024-07358-4)] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
+
 
 - Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. **Nature** 629, 1027–1033 (2024). 
 [[paper](https://doi.org/10.1038/s41586-024-07358-4)] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
@@ -32,6 +40,8 @@ More details please have a look at my curriculum vitae from the top menu.
 - **Y. Lin**, W. Ding, S. Qiang, et al., (2021) ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks. **Front. Neurosci**. 15:726582. doi: 10.3389/fnins.2021.726582
 [[paper](https://www.frontiersin.org/articles/10.3389/fnins.2021.726582/full)] [[code](https://github.com/lyh983012/ES-imagenet-master)]
 
+## Other Publications
+
 - Z. Wu, H. Zhang, **Y. Lin**. et al. LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing. 2021, **IEEE Transactions on Neural Networks and Learning Systems**, PP(99):1-14.
 [[paper](https://ieeexplore.ieee.org/abstract/document/9429228)] [[code](https://github.com/lyh983012/SNN-genunit)]
 
@@ -43,8 +53,10 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ##  Honors
 
-
-- 11/2024 *
+- 06/2025 Outstanding Graduate of Beijing 
+- 06/2025 Outstanding Doctoral Dissertation of Tsinghua University
+- 06/2025 Outstanding graduate of Tsinghua University
+- 11/2024 National scholarship, **(Top 2%)**
 - 10/2024 Zheng Lianfa Scholarship, Fujian Provincial Labour Committee
 - 08/2024 First-class Scholarship of China Instrumentation Society, CIS
 - 11/2023 Comprehensive first-class scholarship for PhD studentss, THU **(Top 10%)**
@@ -68,7 +80,7 @@ More details please have a look at my curriculum vitae from the top menu.
 
 ## Working Experience
 
-- 10/2021-08/2024, Intern ISP Algorithm Engineer, Beijing Lynxi tech. co.
+- 7/2025- now, TTAP, Xiamen University, 
 - 06/2023-08/2023, Intern CV Algorithm Engineer, Yealink Co.
 
 ## Blogs
