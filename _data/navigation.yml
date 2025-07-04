@@ -19,7 +19,7 @@ main:
     url: /files/Yihan_Lin.pdf
     
   - title: "TianMouCV"
-    url: /tianmoucv_doc_source/index.html
+    url: /tianmoucv_doc_opensource/index.html 
 
   - title: "Tianmouc-Lens"
     url: /depth-of-field/index.html
