@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently employed as a Tenure-Track Assistant Professor at Pen-Tune Sah institute of Micro-Nano Science and Technology, Xiamen University.  My research focuses on brain-inspired vision and brain-inspired computing, with representative works including the Tianmouc chip and the [[TianmouCV](https://github.com/Tianmouc)] project. I welcome collaborations—please feel free to contact me.
+I am currently employed as a Tenure-Track Assistant Professor at Pen-Tung Sah institute of Micro-Nano Science and Technology, Xiamen University.  My research focuses on brain-inspired vision and brain-inspired computing, with representative works including the Tianmouc chip and the [[TianmouCV](https://github.com/Tianmouc)] project. I welcome collaborations—please feel free to contact me.
 
 ## Education
 
