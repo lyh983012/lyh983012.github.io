@@ -18,9 +18,9 @@ I am currently employed as a Tenure-Track Assistant Professor at Pen-Tung Sah in
 
 ## Publications
 
-- Y. Meng$^†$, **Y. Lin**$^†$, et. al., ***(accepted, preparing), ICCV 2025
+- Y. Meng$^†$, **Y. Lin**$^†$, et. al., Diffusion-Based Extreme High-speed Scenes Reconstruction with the Complementary Vision Sensor, Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2025, pp. 5701-5710. [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Meng_Diffusion-Based_Extreme_High-speed_Scenes_Reconstruction_with_the_Complementary_Vision_Sensor_ICCV_2025_paper.html)] [[code](https://github.com/Tianmouc/GenRec)] 
 
-- **Y. Lin**$^†$, Z. Zhang$^†$ et. al., ***(accepted, preparing), IROS 2025
+- **Y. Lin**$^†$, Z. Zhang$^†$ et. al., Complementary-pathway Spatial-enhanced Visual Odometry for Extreme Environments with Brain-inspired Vision Sensors, IROS 2025. [[paper]()] [[code](https://github.com/Tianmouc/CSVO)]
 
 - Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al.,"A vision chip with complementary pathways for open-world sensing. **Nature** 629, 1027–1033 (2024). 
 [[paper](https://doi.org/10.1038/s41586-024-07358-4)] [[code](https://github.com/Tianmouc)] [[project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
