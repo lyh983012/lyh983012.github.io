@@ -52,8 +52,8 @@ I am currently employed as a Tenure-Track Assistant Professor at Pen-Tung Sah in
 
 ##  Honors
 
-- 06/2025 High-Level Talent of Fujian Province (Class C)
-- 06/2025 Nanqiang Young Top-notch Talent of Xiamen University (Class A)
+- 12/2025 High-Level Talent of Fujian Province (Class C)
+- 06/2025 Outstanding Introduced Assistant Professor of Xiamen University (Class A)
 - 06/2025 Outstanding Graduate of Beijing 
 - 06/2025 Outstanding Doctoral Dissertation of Tsinghua University
 - 06/2025 Outstanding graduate of Tsinghua University

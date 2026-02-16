@@ -30,7 +30,7 @@ author_profile: true
 5. **Y. Lin**, Y. Hu, S. Ma, D. Yu and G. Li, **Rethinking Pretraining as a Bridge From ANNs to SNNs**, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2022, doi: 10.1109/TNNLS.2022.3217796.  
    [[Paper](https://ieeexplore.ieee.org/document/9950361)] [[Code](https://github.com/lyh983012/SNN-ANN-Pretrain)]
 
-6. **Y. Lin**$^†$, J. Sun$^†$, et al., **Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics**, *IEEE/CAA Journal of Automatica Sinica*, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.  
+6. **Y. Lin**$^†$, J. Sun$^†$, et. al., **Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics**, *IEEE/CAA Journal of Automatica Sinica*, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.  
    [[Paper](https://ieeexplore.ieee.org/abstract/document/9732319)] [[Code](https://github.com/lyh983012/ComplexNetController)]
 
 7. **Y. Lin**, W. Ding, S. Qiang, et al., **ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks**, *Frontiers in Neuroscience*, 15:726582. doi: 10.3389/fnins.2021.726582.  
@@ -49,8 +49,8 @@ author_profile: true
 
 ##  荣誉奖励
 
-- 2025/06 福建省高层次人才（C类）
-- 2025/06 厦门大学南强青年拔尖人才（A类）
+- 2025/12 福建省高层次人才（C类）
+- 2025/06 厦门大学优秀引进助理教授（A类）
 - 2025/06 北京市优秀毕业生
 - 2025/06 清华大学优秀博士学位论文
 - 2025/06 清华大学优秀毕业生
