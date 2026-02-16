@@ -15,8 +15,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "CV"
-    url: /files/Yihan_Lin.pdf
+  - title: "中文主页"
+    url: /about-zh/
+    
+  - title: "资源下载"
+    url: /downloads/
     
   - title: "TianMouCV"
     url: /tianmoucv_doc_opensource/index.html 

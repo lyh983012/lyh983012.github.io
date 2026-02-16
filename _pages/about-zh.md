@@ -1,22 +1,19 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+permalink: /about-zh/
+title: "关于我"
+excerpt: "关于我"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-I am currently employed as a Tenure-Track Assistant Professor at Pen-Tung Sah institute of Micro-Nano Science and Technology, Xiamen University.  My research focuses on brain-inspired vision and brain-inspired computing, with representative works including the Tianmouc chip and the [[TianmouCV](https://github.com/Tianmouc)] project. I welcome collaborations—please feel free to contact me.
+目前任职于厦门大学萨本栋微米纳米科学技术研究院，担任助理教授。我的研究聚焦于类脑视觉与类脑计算，代表性工作包括天眸芯片及[[TianmouCV](https://github.com/Tianmouc)]项目。欢迎交流与合作，请随时联系我。
 
-## Education
+## 教育经历
 
-- Ph.D., Center for Brain-Inspired Computing Research, Tsinghua University, 9/2020 ~ 6/2025.
-- Undergraduate student (B.E. degree), Major in Instruments Science and Technology, Department of Precision Instrument, Tsinghua University, 9/2016 ~ 7/2020.
-- Minor Degree in CS, Department of Computer Science and Technology, Tsinghua University, 9/2018 ~ 7/2020.
+- 博士，清华大学类脑计算研究中心，2020年9月 ~ 2025年6月。
+- 本科（工学学士），清华大学精密仪器系，测控技术与仪器专业，2016年9月 ~ 2020年7月。
+- 辅修学位（计算机科学与技术），清华大学计算机科学与技术系，2018年9月 ~ 2020年7月。
 
-## Publications
+## 代表性论文
 
 1. Y. Meng$^†$, **Y. Lin**$^†$, et. al., **Diffusion-Based Extreme High-speed Scenes Reconstruction with the Complementary Vision Sensor**, *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025, pp. 5701-5710.  
    [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Meng_Diffusion-Based_Extreme_High-speed_Scenes_Reconstruction_with_the_Complementary_Vision_Sensor_ICCV_2025_paper.html)] [[Code](https://github.com/Tianmouc/GenRec)]
@@ -33,13 +30,13 @@ I am currently employed as a Tenure-Track Assistant Professor at Pen-Tung Sah in
 5. **Y. Lin**, Y. Hu, S. Ma, D. Yu and G. Li, **Rethinking Pretraining as a Bridge From ANNs to SNNs**, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2022, doi: 10.1109/TNNLS.2022.3217796.  
    [[Paper](https://ieeexplore.ieee.org/document/9950361)] [[Code](https://github.com/lyh983012/SNN-ANN-Pretrain)]
 
-6. **Y. Lin**$^†$, J. Sun$^†$, et. al., **Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics**, *IEEE/CAA Journal of Automatica Sinica*, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.  
+6. **Y. Lin**$^†$, J. Sun$^†$, et al., **Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics**, *IEEE/CAA Journal of Automatica Sinica*, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.  
    [[Paper](https://ieeexplore.ieee.org/abstract/document/9732319)] [[Code](https://github.com/lyh983012/ComplexNetController)]
 
 7. **Y. Lin**, W. Ding, S. Qiang, et al., **ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks**, *Frontiers in Neuroscience*, 15:726582. doi: 10.3389/fnins.2021.726582.  
    [[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2021.726582/full)] [[Code](https://github.com/lyh983012/ES-imagenet-master)]
 
-## Other Publications
+## 其他发表
 
 1. Z. Wu, H. Zhang, **Y. Lin**. et al., **LIAF-Net: Leaky Integrate and Analog Fire Network for Lightweight and Efficient Spatiotemporal Information Processing**, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2021, PP(99):1-14.  
    [[Paper](https://ieeexplore.ieee.org/abstract/document/9429228)] [[Code](https://github.com/lyh983012/SNN-genunit)]
@@ -50,47 +47,48 @@ I am currently employed as a Tenure-Track Assistant Professor at Pen-Tung Sah in
 3. S. Ma, J. Pei, W. Zhang, G. Wang, D. Feng et. al, **Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots**, *Science Robotics*, 2022, vol. 7, no. 67, pp. eabk2948. doi:10.1126/scirobotics.abk2948.  
    [[Paper](https://www.science.org/doi/abs/10.1126/scirobotics.abk2948)]
 
-##  Honors
+##  荣誉奖励
 
-- 06/2025 High-Level Talent of Fujian Province (Class C)
-- 06/2025 Nanqiang Young Top-notch Talent of Xiamen University (Class A)
-- 06/2025 Outstanding Graduate of Beijing 
-- 06/2025 Outstanding Doctoral Dissertation of Tsinghua University
-- 06/2025 Outstanding graduate of Tsinghua University
-- 11/2024 National scholarship, **(Top 2%)**
-- 10/2024 Zheng Lianfa Scholarship, Fujian Provincial Labour Committee
-- 08/2024 First-class Scholarship of China Instrumentation Society, CIS
-- 06/2020 Outstanding graduates of Beijing
-- 06/2020 Outstanding graduates of Tsinghua University **(Top 2%)**
-- 10/2018 National scholarship **(Top 2%)**
+- 2025/06 福建省高层次人才（C类）
+- 2025/06 厦门大学南强青年拔尖人才（A类）
+- 2025/06 北京市优秀毕业生
+- 2025/06 清华大学优秀博士学位论文
+- 2025/06 清华大学优秀毕业生
+- 2024/11 国家奖学金 **(前 2%)**
+- 2024/10 福建省关工委郑连发奖学金
+- 2024/08 中国仪器仪表学会一等奖学金
+- 2020/06 北京市优秀毕业生
+- 2020/06 清华大学优秀毕业生 **(前 2%)**
+- 2018/10 国家奖学金 **(前 2%)**
 
-## Working Experience
+## 工作经历
 
-- 7/2025- now, TTAP, Xiamen University, 
-- 06/2023-08/2023, Intern CV Algorithm Engineer, Yealink Co.
+- 2025/07 - 至今，助理教授，厦门大学
+- 2023/06 - 2023/08，CV算法工程师实习生，亿联网络
 
-## Blogs
+## 博客
+
 - [A Brief Introduction to Neuromorphic Processors](https://spectra.mathpix.com/article/2022.09.00090/a-brief-introduction-to-neuromorphic-processors)
 - [The history of Spiking Neural Network](https://spectra.mathpix.com/article/2022.09.00085/the-history-of-spiking-neural-network)
-- [Note of signal and system course](https://blog.csdn.net/qq_42968558/category_10565336.html)
+- [信号与系统课程笔记](https://blog.csdn.net/qq_42968558/category_10565336.html)
 
-##  SE Project
+##  软件工程项目
 
 - [TianMouCV](https://github.com/Tianmouc/tianmoucv)
-- [Tsinghua-style student](https://github.com/lyh983012/TS-game/releases/tag/1.0.0)
-- [Java Netdisk](https://github.com/lyh983012/Java-Netdisk)
+- [清华式学生 (游戏)](https://github.com/lyh983012/TS-game/releases/tag/1.0.0)
+- [Java 网盘](https://github.com/lyh983012/Java-Netdisk)
 
-## Research Interest
+## 研究兴趣
 ------
--	Spiking Neuron Networks
--	Complex System Control
--	Low Level Computer Vision
--	Brain inspired Intelligence
-- Tool-chain for high-speed complementary vision sensor
+- 脉冲神经网络 (SNN)
+- 复杂系统控制
+- 低层计算机视觉
+- 类脑智能
+- 高速互补视觉传感器工具链
 
-## Other experiences
+## 其他经历
 
-- Be invited to be reviewer of TNNLS, IJCNN, and Frontiers in Neurorobotics,
+- 受邀担任 TNNLS, IJCNN, Frontiers in Neurorobotics 审稿人
 
 <div>
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=4FJDDsvjuSFzFRBj90PhbhqvxK27XvsyT2vmNjJAHCQ&co=07558c&cmo=f5bbbb&cmn=2cb1cf'></script>

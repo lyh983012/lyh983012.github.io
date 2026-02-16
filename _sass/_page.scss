@@ -25,7 +25,13 @@
 
   .page__inner-wrap {
     @include full();
-
+    /* Tech feel: Card style */
+    background-color: $code-background-color-dark; /* Slightly lighter than background */
+    padding: 2em;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+    border: 1px solid $border-color;
+    
     .page__content,
     .page__meta,
     .page__share {
@@ -37,6 +43,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  color: $primary-color;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -53,10 +60,19 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    color: $primary-color;
+    margin-top: 1.5em; /* Better spacing */
+  }
+  
+  h3, h4, h5, h6 {
+    color: $light-gray;
+    margin-top: 1.2em;
   }
 
   p, li, dl {
     font-size: 1em;
+    color: $text-color;
+    line-height: 1.6; /* Improved readability */
   }
 
   /* paragraph indents */
@@ -73,13 +89,16 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none; /* Modern look */
+    color: $link-color;
+    transition: $global-transition;
 
     &:hover {
       text-decoration: underline;
+      color: $link-color-hover;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 10px rgba($info-color, 0.5); /* Tech glow */
       }
     }
   }
@@ -88,6 +107,7 @@
     margin-top: 1em;
     font-family: $sans-serif;
     font-weight: bold;
+    color: $primary-color;
   }
 
   dd {
@@ -164,6 +184,7 @@
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+  border-radius: $border-radius;
 }
 
 .page__hero-caption {
@@ -218,6 +239,7 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+  color: $light-gray;
 }
 
 
@@ -292,6 +314,7 @@
   font-size: $type-size-6;
   border-top: 1px solid $border-color;
   text-transform: uppercase;
+  color: $light-gray;
 }
 
 .page__comments-form {
@@ -398,4 +421,5 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+  color: $light-gray;
 }
