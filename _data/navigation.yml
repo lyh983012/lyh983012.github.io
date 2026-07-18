@@ -17,7 +17,10 @@ main:
 
   - title: "中文主页"
     url: /about-zh/
-    
+
+  - title: "博客"
+    url: /blog/
+
   - title: "资源下载"
     url: /downloads/
     

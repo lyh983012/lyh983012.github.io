@@ -1,8 +1,13 @@
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
+# Trae intermediate work directory
+_trae_debug/
+
+# macOS
 .DS_Store
-images/.DS_Store
-images/.DS_Store
-images/.DS_Store
-.DS_Store
-.DS_Store
+
+# Office temp files
+~$*
