@@ -16,34 +16,34 @@ author_profile: true
 
 ## 代表性论文
 
-<sub>作者标注：**†** 表示（共同）第一作者，**#** 表示（共同）通讯作者。`†,#` 表示本人在该论文上同时担任一作与通讯作者。</sub>
+<sub>作者标注：**†** 表示（共同）第一作者，**#** 表示（共同）通讯作者。</sub>
 
-1. **Y. Lin**$^†$, Y. Chen, et al., **Brain-inspired visual sensing–perception for open-world environments**, *Nature Sensors*, 2026 *(封面文章)*, doi: 10.1038/s44460-026-00095-3.  
+1. **Y. Lin**<sup>†</sup>, Y. Chen, et al., **Brain-inspired visual sensing–perception for open-world environments**, *Nature Sensors*, 2026 *(封面文章)*, doi: 10.1038/s44460-026-00095-3.  
    [[Paper](https://doi.org/10.1038/s44460-026-00095-3)]
 
-2. **Y. Lin**$^{†,\#}$, Y. Meng, X. Chen, **A unified calibration framework and synthesis methodology for high dynamic range imaging with complementary vision sensors**, *Measurement*, 2026, 122562, doi: 10.1016/j.measurement.2026.122562.  
+2. **Y. Lin**<sup>†,#</sup>, Y. Meng, X. Chen, **A unified calibration framework and synthesis methodology for high dynamic range imaging with complementary vision sensors**, *Measurement*, 2026, 122562, doi: 10.1016/j.measurement.2026.122562.  
    [[Paper](https://doi.org/10.1016/j.measurement.2026.122562)]
 
-3. ..., **Y. Lin**$^{\#}$, R. Zhao$^{\#}$, **ACMMM 2026** *(已接收, CCF-A)*.
+3. ..., **Y. Lin**<sup>#</sup>, R. Zhao<sup>#</sup>, **ACMMM 2026** *(已接收, CCF-A)*.
 
-4. Y. Meng, L. Yang, ..., **Y. Lin**$^{\#}$, R. Zhao$^{\#}$, **Spatio-Temporal Difference Guided Motion Deblurring with the Complementary Vision Sensor**, *CVPR* 2026 *(CCF-A)*.
+4. Y. Meng, L. Yang, ..., **Y. Lin**<sup>#</sup>, R. Zhao<sup>#</sup>, **Spatio-Temporal Difference Guided Motion Deblurring with the Complementary Vision Sensor**, *CVPR* 2026 *(CCF-A)*.
 
-5. Y. Meng$^†$, **Y. Lin**$^†$, et. al., **Diffusion-Based Extreme High-speed Scenes Reconstruction with the Complementary Vision Sensor**, *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025, pp. 5701-5710.  
+5. Y. Meng<sup>†</sup>, **Y. Lin**<sup>†</sup>, et. al., **Diffusion-Based Extreme High-speed Scenes Reconstruction with the Complementary Vision Sensor**, *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2025, pp. 5701-5710.  
    [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Meng_Diffusion-Based_Extreme_High-speed_Scenes_Reconstruction_with_the_Complementary_Vision_Sensor_ICCV_2025_paper.html)] [[Code](https://github.com/Tianmouc/GenRec)]
 
-6. **Y. Lin**$^†$, Z. Zhang$^†$ et. al., **Complementary-pathway Spatial-enhanced Visual Odometry for Extreme Environments with Brain-inspired Vision Sensors**, *IROS* 2025.  
+6. **Y. Lin**<sup>†</sup>, Z. Zhang<sup>†</sup> et. al., **Complementary-pathway Spatial-enhanced Visual Odometry for Extreme Environments with Brain-inspired Vision Sensors**, *IROS* 2025.  
    [[Paper]()] [[Code](https://github.com/Tianmouc/CSVO)]
 
-7. Z. Yang$^†$, T. Wang$^†$, **Y. Lin**$^†$, et. al., **A vision chip with complementary pathways for open-world sensing**, *Nature* 629, 1027–1033 (2024) *(封面文章)*.  
+7. Z. Yang<sup>†</sup>, T. Wang<sup>†</sup>, **Y. Lin**<sup>†</sup>, et. al., **A vision chip with complementary pathways for open-world sensing**, *Nature* 629, 1027–1033 (2024) *(封面文章)*.  
    [[Paper](https://doi.org/10.1038/s41586-024-07358-4)] [[Code](https://github.com/Tianmouc)] [[Project](https://www.cbicr.tsinghua.edu.cn/?page_id=971)]
 
-8. L. He$^†$, Y. Xu$^†$, W. He$^†$, **Y. Lin**$^†$. et al., **Network model with internal complexity bridges artificial intelligence and neuroscience**, *Nature Computational Science* (2024).  
+8. L. He<sup>†</sup>, Y. Xu<sup>†</sup>, W. He<sup>†</sup>, **Y. Lin**<sup>†</sup>. et al., **Network model with internal complexity bridges artificial intelligence and neuroscience**, *Nature Computational Science* (2024).  
    [[Paper](https://doi.org/10.1038/s43588-024-00674-9)] [[Code](https://github.com/helx-20/complexity)]
 
 9. **Y. Lin**, Y. Hu, S. Ma, D. Yu and G. Li, **Rethinking Pretraining as a Bridge From ANNs to SNNs**, *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, 2022, doi: 10.1109/TNNLS.2022.3217796.  
    [[Paper](https://ieeexplore.ieee.org/document/9950361)] [[Code](https://github.com/lyh983012/SNN-ANN-Pretrain)]
 
-10. **Y. Lin**$^†$, J. Sun$^†$, et. al., **Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics**, *IEEE/CAA Journal of Automatica Sinica*, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.  
+10. **Y. Lin**<sup>†</sup>, J. Sun<sup>†</sup>, et. al., **Spatiotemporal Input Control: Leveraging Temporal Variation in Network Dynamics**, *IEEE/CAA Journal of Automatica Sinica*, vol. 9, no. 4, pp. 635-651, April 2022, doi: 10.1109/JAS.2022.105455.  
     [[Paper](https://ieeexplore.ieee.org/abstract/document/9732319)] [[Code](https://github.com/lyh983012/ComplexNetController)]
 
 11. **Y. Lin**, W. Ding, S. Qiang, et al., **ES-ImageNet: A Million Event-Stream Classification Dataset for Spiking Neural Networks**, *Frontiers in Neuroscience*, 15:726582. doi: 10.3389/fnins.2021.726582.  
